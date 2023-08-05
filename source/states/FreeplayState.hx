@@ -60,7 +60,7 @@ class FreeplayState extends MusicBeatState
 		// Updating Discord Rich Presence
 		DiscordClient.changePresence("In the Menus", null);
 		#end
-		addSong('goluy', 0, 'guy', 0xFF000000);
+		addSong('goldy', 0, 'guy', 0xFF000000);
 		addSong('midnight', 0, 'guy', 0xFF000000);
 		addSong('durabox', 0, 'guy', 0xFF000000);
 		addSong('chesse', 0, 'guy', 0xFF000000);

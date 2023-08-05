@@ -5,10 +5,10 @@
 				20,
 				-280
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "idle",
-			"loop": false,
+			"indices": [],
 			"name": "idle"
 		},
 		{
@@ -16,10 +16,10 @@
 				44,
 				-266
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "singLEFT",
-			"loop": false,
+			"indices": [],
 			"name": "left"
 		},
 		{
@@ -27,10 +27,10 @@
 				190,
 				-280
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "singDOWN",
-			"loop": false,
+			"indices": [],
 			"name": "down"
 		},
 		{
@@ -38,10 +38,10 @@
 				13,
 				-255
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "singUP",
-			"loop": false,
+			"indices": [],
 			"name": "up"
 		},
 		{
@@ -49,10 +49,10 @@
 				16,
 				-280
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "singRIGHT",
-			"loop": false,
+			"indices": [],
 			"name": "right"
 		}
 	],
@@ -71,7 +71,7 @@
 	],
 	"camera_position": [
 		0,
-		0
+		280
 	],
 	"sing_duration": 6.1,
 	"scale": 1

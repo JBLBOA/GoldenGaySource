@@ -1,59 +1,59 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				290,
 				210
 			],
-			"anim": "idle",
+			"loop": false,
 			"fps": 24,
-			"name": "Idle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				320,
 				210
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singLEFT",
-			"loop": false,
-			"name": "MaskLeft"
+			"fps": 24,
+			"name": "MaskLeft",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				313,
 				213
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singDOWN",
-			"loop": false,
-			"name": "MaskDown"
+			"fps": 24,
+			"name": "MaskDown",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				295,
 				228
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singUP",
-			"loop": false,
-			"name": "MaskUp"
+			"fps": 24,
+			"name": "MaskUp",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				284,
 				211
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singRIGHT",
-			"loop": false,
-			"name": "MaskRight"
+			"fps": 24,
+			"name": "MaskRight",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
@@ -71,7 +71,7 @@
 	],
 	"camera_position": [
 		230,
-		270
+		240
 	],
 	"sing_duration": 6.1,
 	"scale": 0.5

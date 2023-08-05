@@ -1,10 +1,242 @@
 {
 	"song": {
 		"player1": "BFdura",
-		"gfVersion": "gf",
+		"player2": "homerodura",
+		"events": [
+			[
+				4358.97435897436,
+				[
+					[
+						"dialogos",
+						"cuando",
+						"true"
+					]
+				]
+			],
+			[
+				4487.17948717949,
+				[
+					[
+						"dialogos",
+						"cuando yo",
+						"true"
+					]
+				]
+			],
+			[
+				4615.38461538462,
+				[
+					[
+						"dialogos",
+						"cuando yo la",
+						"true"
+					]
+				]
+			],
+			[
+				4743.58974358974,
+				[
+					[
+						"dialogos",
+						"cuando yo la",
+						"true"
+					]
+				]
+			],
+			[
+				5000,
+				[
+					[
+						"dialogos",
+						"cuando yo la vi",
+						"true"
+					]
+				]
+			],
+			[
+				5641.02564102564,
+				[
+					[
+						"dialogos",
+						"wu",
+						"true"
+					]
+				]
+			],
+			[
+				5897.4358974359,
+				[
+					[
+						"dialogos",
+						"wuju",
+						"true"
+					]
+				]
+			],
+			[
+				6025.64102564103,
+				[
+					[
+						"dialogos",
+						"wujuju",
+						"true"
+					]
+				]
+			],
+			[
+				6153.84615384615,
+				[
+					[
+						"dialogos",
+						"per",
+						"true"
+					]
+				]
+			],
+			[
+				6538.46153846154,
+				[
+					[
+						"dialogos",
+						"perdo",
+						"true"
+					]
+				]
+			],
+			[
+				6923.07692307692,
+				[
+					[
+						"dialogos",
+						"perdona",
+						"true"
+					]
+				]
+			],
+			[
+				7179.48717948718,
+				[
+					[
+						"dialogos",
+						"perdoname",
+						"true"
+					]
+				]
+			],
+			[
+				7435.89743589744,
+				[
+					[
+						"dialogos",
+						"la",
+						"true"
+					]
+				]
+			],
+			[
+				7692.30769230769,
+				[
+					[
+						"dialogos",
+						"la vi",
+						"true"
+					]
+				]
+			],
+			[
+				7948.71794871795,
+				[
+					[
+						"dialogos",
+						"la vi da",
+						"true"
+					]
+				]
+			],
+			[
+				8205.12820512821,
+				[
+					[
+						"dialogos",
+						"",
+						"false"
+					]
+				]
+			],
+			[
+				12564.1025641026,
+				[
+					[
+						"dialogos",
+						"perdona",
+						"true"
+					]
+				]
+			],
+			[
+				13461.5384615385,
+				[
+					[
+						"dialogos",
+						"cuando yo la vi",
+						"true"
+					]
+				]
+			],
+			[
+				14871.7948717949,
+				[
+					[
+						"dialogos",
+						"per",
+						"true"
+					]
+				]
+			],
+			[
+				15256.4102564103,
+				[
+					[
+						"dialogos",
+						"perdo",
+						"true"
+					]
+				]
+			],
+			[
+				15641.0256410256,
+				[
+					[
+						"dialogos",
+						"perdona",
+						"true"
+					]
+				]
+			],
+			[
+				15897.4358974359,
+				[
+					[
+						"dialogos",
+						"perdona ne",
+						"true"
+					]
+				]
+			],
+			[
+				16153.8461538462,
+				[
+					[
+						"dialogos",
+						"perdona nena",
+						"true"
+					]
+				]
+			]
+		],
 		"notes": [
 			{
-				"sectionBeats": 4,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						512.820512820513,
@@ -32,15 +264,15 @@
 						128.205128205128
 					]
 				],
-				"typeOfSection": 0,
-				"gfSection": false,
+				"sectionBeats": 4,
 				"altAnim": false,
-				"mustHitSection": true,
+				"gfSection": false,
+				"bpm": 150,
 				"changeBPM": false,
-				"bpm": 150
+				"mustHitSection": true
 			},
 			{
-				"sectionBeats": 4,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						2307.69230769231,
@@ -93,15 +325,15 @@
 						128.205128205128
 					]
 				],
-				"typeOfSection": 0,
-				"gfSection": false,
+				"sectionBeats": 4,
 				"altAnim": false,
-				"mustHitSection": true,
+				"gfSection": false,
+				"bpm": 150,
 				"changeBPM": false,
-				"bpm": 150
+				"mustHitSection": true
 			},
 			{
-				"sectionBeats": 4,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						4615.38461538462,
@@ -184,15 +416,15 @@
 						0
 					]
 				],
-				"typeOfSection": 0,
-				"gfSection": false,
+				"sectionBeats": 4,
 				"altAnim": false,
-				"mustHitSection": true,
+				"gfSection": false,
+				"bpm": 117,
 				"changeBPM": false,
-				"bpm": 117
+				"mustHitSection": true
 			},
 			{
-				"sectionBeats": 4,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						6410.25641025641,
@@ -285,15 +517,15 @@
 						128.205128205128
 					]
 				],
-				"typeOfSection": 0,
-				"gfSection": false,
+				"sectionBeats": 4,
 				"altAnim": false,
-				"mustHitSection": true,
+				"gfSection": false,
+				"bpm": 117,
 				"changeBPM": false,
-				"bpm": 117
+				"mustHitSection": true
 			},
 			{
-				"sectionBeats": 4,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						8205.12820512821,
@@ -376,15 +608,15 @@
 						0
 					]
 				],
-				"typeOfSection": 0,
-				"gfSection": false,
+				"sectionBeats": 4,
 				"altAnim": false,
-				"mustHitSection": true,
+				"gfSection": false,
+				"bpm": 117,
 				"changeBPM": false,
-				"bpm": 117
+				"mustHitSection": true
 			},
 			{
-				"sectionBeats": 4,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						10256.4102564103,
@@ -487,15 +719,15 @@
 						384.615384615385
 					]
 				],
-				"typeOfSection": 0,
-				"gfSection": false,
+				"sectionBeats": 4,
 				"altAnim": false,
-				"mustHitSection": true,
+				"gfSection": false,
+				"bpm": 117,
 				"changeBPM": false,
-				"bpm": 117
+				"mustHitSection": true
 			},
 			{
-				"sectionBeats": 4,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						12564.1025641026,
@@ -608,15 +840,15 @@
 						128.205128205128
 					]
 				],
-				"typeOfSection": 0,
-				"gfSection": false,
+				"sectionBeats": 4,
 				"altAnim": false,
-				"mustHitSection": true,
+				"gfSection": false,
+				"bpm": 117,
 				"changeBPM": false,
-				"bpm": 117
+				"mustHitSection": true
 			},
 			{
-				"sectionBeats": 4,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						14358.9743589744,
@@ -695,67 +927,66 @@
 					],
 					[
 						16153.8461538462,
-						4,
-						128.205128205128
+						7,
+						129
 					]
 				],
-				"typeOfSection": 0,
-				"gfSection": false,
+				"sectionBeats": 4,
 				"altAnim": false,
-				"mustHitSection": true,
+				"gfSection": false,
+				"bpm": 117,
 				"changeBPM": false,
-				"bpm": 117
+				"mustHitSection": true
 			},
 			{
-				"sectionBeats": 4,
-				"sectionNotes": [],
 				"typeOfSection": 0,
-				"gfSection": false,
+				"sectionNotes": [],
+				"sectionBeats": 4,
 				"altAnim": false,
-				"mustHitSection": true,
+				"gfSection": false,
+				"bpm": 117,
 				"changeBPM": false,
-				"bpm": 117
+				"mustHitSection": true
 			},
 			{
-				"sectionBeats": 4,
-				"sectionNotes": [],
 				"typeOfSection": 0,
-				"gfSection": false,
+				"sectionNotes": [],
+				"sectionBeats": 4,
 				"altAnim": false,
-				"mustHitSection": true,
+				"gfSection": false,
+				"bpm": 117,
 				"changeBPM": false,
-				"bpm": 117
+				"mustHitSection": true
 			},
 			{
-				"sectionBeats": 4,
-				"sectionNotes": [],
 				"typeOfSection": 0,
-				"gfSection": false,
+				"sectionNotes": [],
+				"sectionBeats": 4,
 				"altAnim": false,
-				"mustHitSection": true,
+				"gfSection": false,
+				"bpm": 117,
 				"changeBPM": false,
-				"bpm": 117
+				"mustHitSection": true
 			},
 			{
-				"sectionBeats": 4,
-				"sectionNotes": [],
 				"typeOfSection": 0,
-				"gfSection": false,
+				"sectionNotes": [],
+				"sectionBeats": 4,
 				"altAnim": false,
-				"mustHitSection": true,
+				"gfSection": false,
+				"bpm": 117,
 				"changeBPM": false,
-				"bpm": 117
+				"mustHitSection": true
 			}
 		],
-		"events": [],
-		"player2": "homerodura",
+		"gfVersion": "gf",
 		"splashSkin": "noteSplashes",
 		"song": "durabox",
-		"needsVoices": true,
-		"arrowSkin": "",
-		"stage": "durawujuju",
 		"validScore": false,
-		"bpm": 117,
-		"speed": 3.2
+		"stage": "durawujuju",
+		"arrowSkin": "",
+		"needsVoices": true,
+		"speed": 3.2,
+		"bpm": 117
 	}
 }

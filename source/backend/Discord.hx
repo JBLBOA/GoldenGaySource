@@ -116,7 +116,7 @@ class DiscordClient
 
 		_options.details = details;
 		_options.state = state;
-		_options.largeImageKey = 'icon';
+		_options.largeImageKey = 'goluyrpc';
 		_options.largeImageText = "Engine Version: " + states.MainMenuState.psychEngineVersion;
 		_options.smallImageKey = smallImageKey;
 		// Obtained times are in milliseconds so they are divided so Discord can use it

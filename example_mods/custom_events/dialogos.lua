@@ -13,6 +13,8 @@ function onEvent(Name, value1, value2)
     end
     if songName == "Me-asuste" then
         setTextColor("dialogo", "FFCF7A")
+    elseif songName == "durabox" then
+        setTextColor("dialogo", "FFFF00")
     end
     end
 end
