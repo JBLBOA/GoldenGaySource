@@ -63,11 +63,13 @@ class FreeplayState extends MusicBeatState
 		addSong('goluy', 0, 'guy', 0xFF000000);
 		addSong('midnight', 0, 'guy', 0xFF000000);
 		addSong('durabox', 0, 'guy', 0xFF000000);
+		addSong('chesse', 0, 'guy', 0xFF000000);
 		addSong('criminal6', 0, 'guy', 0xFF000000);
-		addSong('Me-asuste', 0, 'guy', 0xFF000000);
-		addSong('school-mahyem', 0, 'guy', 0xFF000000);
-		addSong('watchful', 0, 'guy', 0xFF000000);
-		addSong('man', 0, 'guy', 0xFF000000);
+		addSong('theory', 0, 'guy', 0xFF000000);
+		//addSong('Me-asuste', 0, 'guy', 0xFF000000);
+		//addSong('school-mahyem', 0, 'guy', 0xFF000000);
+		//addSong('watchful', 0, 'guy', 0xFF000000);
+		//addSong('man', 0, 'guy', 0xFF000000);
 		/*
 		for (i in 0...WeekData.weeksList.length) {
 			if(weekIsLocked(WeekData.weeksList[i])) continue;

@@ -105,3 +105,14 @@ function goodNoteHit(id, noteData, noteType, isSustainNote)
 		end
 	end
 end
+function onCreatePost()
+	setPropertyFromClass('Main', 'fpsVar.visible', preferences.fpsVisible)
+	makeLuaText('luaScoreTxt', 'DEATGS:0', 0, 800,670);
+	setObjectCamera("luaScoreTxt", "hud")
+	setTextSize('luaScoreTxt', 18);
+	setTextBorder('luaScoreTxt', 1, '000000');
+	addLuaText('luaScoreTxt');
+end
+function onUpdateScore()
+	setTextString('luaScoreTxt', 'DEATGS:'..misses);
+end
